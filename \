@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>What is copyright?</title>
+		<title>reveal.js - The HTML Presentation Framework</title>
 
 		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
 		<meta name="author" content="Hakim El Hattab">
@@ -41,7 +41,8 @@
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 				<section>
-					What is copyright?
+					this is a slide<p>
+					it contains text
 				</section>
 
 			</div>
